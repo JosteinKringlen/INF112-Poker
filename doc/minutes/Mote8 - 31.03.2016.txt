@@ -1,0 +1,43 @@
+Møte 8 - 31.03.16, kl 15.00
+Sekretær: Morten Lohne
+
+Oppmøte:
+Vegar
+Kaja
+Kristian
+Jostein
+André
+Simon
+Morten
+Mariah
+Ragnhild
+
+Ikke til stede:
+Henrik
+
+Diskusjon:
+Forrige sprint fungerte bra, godt samarbeid. Ikke noe left over work.
+Må legge til de nye storyene og endre på de som handler om antall spillere.
+Oppdatere kravene, diskuterte MoSCoW.
+Diskuterte hvordan bordet og spillere skulle designes.
+Diskuterte hva vi skulle skrive ut som "Current best hand". Ble enige om å skrive det ut i GUI.
+Diskuterte hvilken statistikk som skulle skrives ut etter endt spill.
+
+
+Oppgavefordeling:
+AI - Lage en bedre, mindre random AI ved bruk av Montecarlo Tree Search algorithm (MCTS): Morten
+GUI - Hvordan få implementert flere spillere. Utarbeide en plan for et PlayerLayout-interface: Jostein, André, Mariah
+Game-loop - Gjøre Gameloopen klar for flere spillere (skal være noen lunde implementert). Fortsette med bug tracking: Kristian
+Current best hand - Skrive ut hvilken hånd spilleren har til en hver tid: Vegar, Kaja
+Statistikk - Lage en statistikk-klasse som kan holde på stats og skrive ut til fil: Henrik, Simon
+Oppdatere diagrammer: Kaja, Henrik
+Design model: Ragnhild
+Scrumy: Kaja
+
+
+Plan til neste møte:
+Alle skal ha laget en plan for hvordan de skal gjennomføre sin oppgave, samt startet på gjennomføringen.
+
+Tid for neste møte:
+Tirsdag 05.04, kl. 10.00
+

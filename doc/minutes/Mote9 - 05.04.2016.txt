@@ -1,0 +1,32 @@
+Møte 9 - 05.04.16, kl 10.00
+Sekret@r: Mariah Vurum
+
+Oppmøte:
+Kristian
+Kaja
+Ragnhild
+Jostein
+André
+Simon
+Mariah
+
+Fraværende:
+Henrik
+Vegar
+Morten
+
+Hva er gjort siden sist:
+Jostein/André/Mariah: Har begynt på Player/Opponent-layout i GUI. Jobber med plassering av forskjellig antall spillere.
+Kaja/Ragnhild: Har begynt på en toString() i Rules som skriver ut den beste hånden foreløpig.
+Kristian: Har jobbet med Game-loop, implementert at et spill med flere spillere kan initialiseres.
+
+Diskusjon:
+Diskuterte mer om hvilken statistikk som skal lagres etter et spill. Når og hvordan skal det gjøres?
+Ble enige om å ha en lagre statistikk-knapp i slutten av et spill.
+
+Plan til neste møte:
+Alle fortsetter på de oppgavene de har. Jobbe med integreringen mellom GameController og GUI.
+
+
+Tid for neste møte:
+Gruppemøte: 06.04.16 kl 14.30

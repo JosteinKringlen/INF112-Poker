@@ -1,0 +1,36 @@
+Møte 11 - 08.04.16, kl 12.15
+Sekretær: Kaja Dey
+
+Oppmøte:
+Kristian
+Kaja
+Ragnhild
+Jostein
+André
+Simon
+Mariah
+Henrik
+Vegar
+Morten
+
+Hva er gjort siden sist:
+Maven er fikset
+Debugging
+Fortsatt med oppdatering av diagrammer. 
+Tegnet chips
+Jobbet med designmodell (Ragnhild)
+
+Diskusjon:
+Navnelister til AI
+Bestemt oss for å velge GNU general public license 3.
+Ble enige om å begynne å bruke bitbucket sin bugtracker (https://bitbucket.org/tha056/inf112v16-g4/issues?status=new&status=open)
+
+
+Plan til neste møte:
+Finne bugs, legge inn i bugtracker. Assigne alt om GameLoop til Kristian/Morten
+Se over at alle diagrammer og README-filen stemmer. 
+Legge inn bilder av blinds, dealer, chips
+
+Tid for neste møte:
+Søndag 10.04.2016, kl 14:00
+

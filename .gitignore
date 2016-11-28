@@ -1,0 +1,31 @@
+# JAVA
+*.class
+
+# WORD
+*.doc
+*.docx
+
+# YED
+*.graphml
+
+# EMACS TEMP FILES
+*~
+
+# LATEXMK
+*.aux
+*.fdb_latexmk
+*.fls
+
+# FROM MAC
+*.DS_STORE
+
+# INTELLIJ
+*.iml
+.idea
+.idea/workspace.xml
+target
+
+*.log
+
+# Stats folder
+stats

@@ -1,0 +1,27 @@
+Møte 10 - 06.04.16, kl 10.00
+Sekretær: Ragnhild Aalvik
+
+Oppmøte:
+Alle i gruppen
+
+Hva er gjort siden sist:
+Skrevet ferdig rank. 
+Ferdig med statistikk
+NameGenerator
+
+Diskusjon:
+NameGenerator
+    - Navnetema?
+    - getRandomName()
+    - Tekstfiler med tema
+
+Endringer i statistikk
+
+
+Plan til neste møte:
+Jobbe videre med oppgaver nevnt forrige møte.
+Jobbe med Maven (Vegar)
+
+Tid for neste møte:
+Fredag, 08.04.16 kl 12.00
+
